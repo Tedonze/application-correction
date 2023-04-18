@@ -39,4 +39,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: linogaliana/application-correction:latest
+          tags: nick237/application-correction:latest
